@@ -32,14 +32,7 @@ Hi, I'm Laiba Safdar
 <img src="https://skills.syvixor.com/api/icons?perline=15&i=github">(https://github.com/laibasafdar01)  
 
 
- ## Github Stats📈:
-<p align="center">
-    <a href="https://github.com/laibasafdar01">
-        <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=laibasafdar01&show_icons=true&theme=nightowl&include_all_commits=true&count_private=true&hide_border=true"/>
-        <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=laibasafdar01&langs_count=12&layout=compact&langs_count=8&theme=nightowl&include_all_commits=true&count_private=true&hide_border=true" />
-    </a>
-</p> 
-
+ 
 
 
  <p align="center">

@@ -1,3 +1,6 @@
+<a href="https://github.com/laibasafdar01">
+    <img height="auto" width="100%" src="https://github-widgetbox.vercel.app/api/profile?username=laibasafdar01&data=followers,repositories,stars,commits&theme=rgb">
+
 # laibasafdar01-
 Hi, I'm Laiba Safdar   
 🌱  I am a Botany student with a keen interest in plant physiology, stress biology, and the application of ''data science'' in agriculture. I’m currently learning ''R programming'' and exploring how coding can be applied to plant sciences.

@@ -26,6 +26,6 @@ Hi, I'm Laiba Safdar
 - 🔜 **Next Goals** – Python, GitHub workflows, and data science techniques. 
 
 ## 🔹 Contact Info
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:laiba.safdar01@gmail.com)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/laiba-safdar)  
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/laibasafdar01)  
+<img src="https://skills.syvixor.com/api/icons?perline=15&i=gmail">(mailto:laiba.safdar01@gmail.com)  
+<img src="https://skills.syvixor.com/api/icons?perline=15&i=linkedin">(www.linkedin.com/in/laiba-safdar)  
+<img src="https://skills.syvixor.com/api/icons?perline=15&i=github">(https://github.com/laibasafdar01)  

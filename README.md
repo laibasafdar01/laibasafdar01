@@ -14,7 +14,7 @@ Hi, I'm Laiba Safdar
  ✅ **Skills Set**  
 ![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)  ![Word](https://img.shields.io/badge/Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white)  ![PowerPoint](https://img.shields.io/badge/PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white)  📊 Basic Statistics (Statistics 10) 
   
-   <img src="https://skills.syvixor.com/api/icons?perline=15&i=chatgpt,deepseek">
+   <img src="https://skills.syvixor.com/api/icons?perline=15&i=chatgpt,deepseek,linkedin">
 
 
 ---

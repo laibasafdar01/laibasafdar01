@@ -12,7 +12,7 @@ Hi, I'm Laiba Safdar
 ---
 
  ✅ **Skills Set**  
-<img src="https://skills.syvixor.com/api/icons?perline=15&i=chatgpt,deepseek,linkedin"> ![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)  ![Word](https://img.shields.io/badge/Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white)  ![PowerPoint](https://img.shields.io/badge/PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white)  📊 Basic Statistics (Statistics 10) 
+<img src="https://skills.syvixor.com/api/icons?perline=15&i=chatgpt,deepseek,linkedin,github"> ![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)  ![Word](https://img.shields.io/badge/Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white)  ![PowerPoint](https://img.shields.io/badge/PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white)  📊 Basic Statistics (Statistics 10) 
   
 
 ---
@@ -21,7 +21,7 @@ Hi, I'm Laiba Safdar
 - 📗 **Started with Microsoft Office tools** – Excel, Word, and PowerPoint for academic work.  
 - 📊 **Learned basic statistics (Statistics 10)** – foundations of data analysis.  
 - 💻 **Currently learning R** – for data analysis, visualization, and scientific research.  
-- 🔜 **Next Goals** – Python, GitHub workflows, and data science techniques. 
+- 🔜 **Next Goals** – Python and advanced data science techniques. 
 
 ## 🔹 Contact Info
 <img src="https://skills.syvixor.com/api/icons?perline=15&i=gmail">(laiba.safdar01@gmail.com)  
